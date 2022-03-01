@@ -69,7 +69,7 @@ ul.side-nav a li img {
 }
 .contactbanner {
   background-image: url(../image/25165644.jpg);
-  background-repeat: round;
+  background-position: center center;
   background-size: cover;
   height: 426px;
 }
